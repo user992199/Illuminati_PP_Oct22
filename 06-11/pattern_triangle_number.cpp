@@ -7,7 +7,7 @@ int main(){
 	while(i<=n){
 		j = 1;
 		while(j <= i){
-			cout<<x<<" ";
+			cout<<x<<"\t";
 			x = x+1;
 			j = j+1;
 		}
