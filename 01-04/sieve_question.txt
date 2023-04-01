@@ -1,0 +1,7 @@
+You can jump from a to b, if and only if b%(b-a) = 0
+You care given an integer N, find the number of ways to reach n
+if you can only use the above jumps and start from 1
+
+t 10000
+n 100000
+1337 -> 37318587
